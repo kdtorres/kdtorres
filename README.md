@@ -2,7 +2,7 @@
 - 👀 I’m interested in making a web mini projects
 - 🌱 I’m currently learning more on PHP core, app development :>
 - 💞️ I’m open to collaborate on anything :>
-- 📫 How to reach me: kimdextm@gmail.com | www.linkedin.com/kimdavetorres
+- 📫 How to reach me: kimdextm@gmail.com | www.linkedin.com/in/kimdavetorres
 
 <!---
 kimdavetorres/kimdavetorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
