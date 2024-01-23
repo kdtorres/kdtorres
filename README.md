@@ -1,4 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaveorres&label=Profile%20views&color=0e75b6&style=flat" alt="imaveorres" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,js,php,dotnet,html,css,tailwind,git,github,firebase,figma)](https://skillicons.dev)
+
+<h4 align="left">Data Analytics:</h4>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="Scikit-learn"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" title="Scikit-learn" title="Seaborn"/></a>
+
 
 <!--- 👋 Hi, I’m @kimdavetorres
  👀 I’m interested in making a web mini projects
