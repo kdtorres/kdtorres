@@ -2,7 +2,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,js,php,dotnet,html,css,tailwind,git,github,firebase,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,dotnet,py,django,postgres,tailwind,git,github,firebase,figma)](https://skillicons.dev)
 
 <h4 align="left">Data Analytics:</h4>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/></a> &nbsp;&nbsp;&nbsp;
